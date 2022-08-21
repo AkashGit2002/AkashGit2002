@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Adhikari</h1>
-<h3 align="center">A passionate frontend developer who aims to write quality code</h3>
+<h3 align="center">A passionate Software developer who aims to write quality code</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/akashad00381756" target="blank"><img src="https://img.shields.io/twitter/follow/akashad00381756?logo=twitter&style=for-the-badge" alt="akashad00381756" /></a> </p>
