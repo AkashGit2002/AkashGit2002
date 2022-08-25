@@ -15,6 +15,9 @@
 - 📫 How to reach me **akashadhikari02102003@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+ #Resume: **https://drive.google.com/drive/folders/1DLe_0u6P6wJeJkOnx-Re2XJ_kgp6r6e8**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgit2002&label=Profile%20views&color=0e75b6&style=flat" alt="akashgit2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgit2002" alt="akashgit2002" /></a> </p>
