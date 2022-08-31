@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/akashad00381756" target="blank"><img src="https://img.shields.io/twitter/follow/akashad00381756?logo=twitter&style=for-the-badge" alt="akashad00381756" /></a> </p>
 
 
-- 🔭 I’m currently working on [MindHack](https://deluxe-liger-a6a3a7.netlify.app/)
+- 🔭 Click To View My work [MindHack](https://deluxe-liger-a6a3a7.netlify.app/)
 
 - 🌱 I’m currently learning **React.js,Node.js,Express.js**
 
