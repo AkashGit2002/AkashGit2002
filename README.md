@@ -16,7 +16,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
- - Click here dowload the Resume-[Resume](https://drive.google.com/drive/folders/1DLe_0u6P6wJeJkOnx-Re2XJ_kgp6r6e8)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgit2002&label=Profile%20views&color=0e75b6&style=flat" alt="akashgit2002" /> </p>
 
