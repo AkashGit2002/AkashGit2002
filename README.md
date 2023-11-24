@@ -8,9 +8,9 @@
 
 - 🔭 Click To View My work [MindHack](https://deluxe-liger-a6a3a7.netlify.app/)
 
-- 🌱 I’m currently learning **React.js,Node.js,Express.js**
+- 🌱 I’m currently learning **Salesforce Development**
 
-- 💬 Ask me about **Core Java, OOPS, DBMS, HTML,CSS**
+- 💬 Ask me about **Salesforce Development**
 
 - 📫 How to reach me **akashadhikari02102003@gmail.com**
 
